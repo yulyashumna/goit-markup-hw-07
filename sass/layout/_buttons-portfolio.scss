@@ -4,11 +4,11 @@
     margin-bottom: 50px;
 }
 
-.content-btn + .content-btn {
+.list-content__btn + .list-content__btn {
     margin-left: 8px;
 }
 
-.content-button {  
+.list-content__button {  
     display: block;
     border-radius: 4px;
     border-color: transparent;
@@ -36,8 +36,8 @@
 }
 }
 
-.content-btn:hover,
-.content-btn:focus {
+.list-content__btn:hover,
+.list-content__:focus {
     border-radius: 4px;
     border-color: transparent;
     box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.08), 0px 2px 2px rgba(0, 0, 0, 0.12);
