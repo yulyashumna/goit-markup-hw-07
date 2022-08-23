@@ -162,7 +162,7 @@ body {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
-.form-input:focus + .field-text__icon {
+.field-text_input:focus + .field-text__icon {
   fill: var(--blue-color);
 }
 
